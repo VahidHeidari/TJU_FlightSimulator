@@ -1,0 +1,19 @@
+3
+2
+Building01
+..\..\GroundObjects\building01.txt
+..\..\GroundObjects\building01.bmp
+Bell
+..\..\GroundObjects\bell.txt
+..\..\GroundObjects\bell204.jpg
+Airport
+..\..\GroundObjects\airport.txt
+..\..\GroundObjects\airport.jpg
+Tree01
+10
+10
+..\..\GroundObjects\tree1.png
+Tree02
+10
+10
+..\..\GroundObjects\tree223 copia.png

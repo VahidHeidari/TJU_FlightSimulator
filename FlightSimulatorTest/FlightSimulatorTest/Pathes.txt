@@ -1,0 +1,57 @@
+# Number of sections
+12
+# Parent Name
+fuselage
+# Texture Path
+..\..\SkyHawk\c172SkyHawk1024.jpg
+# File Pathes
+Fuselage
+..\..\SkyHawk\c172skyhawkbody.txt
+Rudder
+..\..\SkyHawk\Rudder.txt
+Flap
+..\..\SkyHawk\flap.txt
+ElevLeft
+..\..\SkyHawk\elevleft.txt
+ElevRight
+..\..\SkyHawk\elevright.txt
+AlironLeft
+..\..\SkyHawk\alironleft.txt
+AlironRight
+..\..\SkyHawk\alironRight.txt
+frontWheel
+..\..\SkyHawk\wheel.txt
+leftWheel
+..\..\SkyHawk\wheel.txt
+rightWheel
+..\..\SkyHawk\wheel.txt
+propeller
+..\..\SkyHawk\propeller.txt
+Glass
+..\..\SkyHawk\SkyHAwkGlass.txt
+# Keyfrmaes Pathes
+..\..\SkyHawk\c172keyFrames.txt
+..\..\SkyHawk\rudderKeyframes.txt
+..\..\SkyHawk\flapKeyframes.txt
+..\..\SkyHawk\elevleftkeyframes.txt
+..\..\SkyHawk\elevrightkeyframes.txt
+..\..\SkyHawk\alironleftkeyframes.txt
+..\..\SkyHawk\alironRightKeyframes.txt
+..\..\SkyHawk\frontwheelkeyframes.txt
+..\..\SkyHawk\leftWheelkeyframes.txt
+..\..\SkyHawk\rightWheelkeyframes.txt
+..\..\SkyHawk\propellerKeyframes.txt
+..\..\SkyHawk\SkyHawkGlassKeyframes.txt
+# Hierarchy Tree
+c172,rudder,null
+rudder,null,flap
+flap,null,elevleft
+elevLeft,null,elevright
+elevright,null,alironleft
+alironleft,null,alironRight
+alironRight,null,frontWheel
+frontWheel,null,leftwheel
+leftWheel,null,rightwheel
+rightwheel,null,propeller
+propeller,null,Glass
+Glass,null,null
