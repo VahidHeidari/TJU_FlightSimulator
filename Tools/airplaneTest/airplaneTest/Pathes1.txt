@@ -1,0 +1,53 @@
+# Number of sections
+11
+# Parent Name
+fuselage
+# Texture Path
+..\..\c172\c172 BODY.bmp
+# File Pathes
+Fuselage
+..\..\c172\c172 body.txt
+Rudder
+..\..\c172\Rudder.txt
+Flap
+..\..\c172\flap.txt
+ElevLeft
+..\..\c172\elevleft.txt
+ElevRight
+..\..\c172\elevright.txt
+AlironLeft
+..\..\c172\alironleft.txt
+AlironRight
+..\..\c172\alironRight.txt
+frontWheel
+..\..\c172\wheel.txt
+leftWheel
+..\..\c172\wheel.txt
+rightWheel
+..\..\c172\wheel.txt
+propeller
+..\..\c172\propeller.txt
+# Keyfrmaes Pathes
+..\..\c172\c172keyFrames.txt
+..\..\c172\rudderKeyframes.txt
+..\..\c172\flapKeyframes.txt
+..\..\c172\elevleftkeyframes.txt
+..\..\c172\elevrightkeyframes.txt
+..\..\c172\alironleftkeyframes.txt
+..\..\c172\alironRightKeyframes.txt
+..\..\c172\frontwheelkeyframes.txt
+..\..\c172\leftWheelkeyframes.txt
+..\..\c172\rightWheelkeyframes.txt
+..\..\c172\propellerKeyframes.txt
+# Hierarchy Tree
+c172,rudder,null
+rudder,null,flap
+flap,null,elevleft
+elevLeft,null,elevright
+elevright,null,alironleft
+alironleft,null,alironRight
+alironRight,null,frontWheel
+frontWheel,null,leftwheel
+leftWheel,null,rightwheel
+rightwheel,null,propeller
+propeller,null,null
